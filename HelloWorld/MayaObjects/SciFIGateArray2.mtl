@@ -1,0 +1,71 @@
+# Blender MTL File: 'SciFIGateArray2.blend'
+# Material Count: 7
+
+newmtl Goway
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.213483 0.005714
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toraj\Desktop\blender-tooraj\MatuvGatewayArray2.png
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.156790 0.156790 0.156790
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toraj\Desktop\blender-tooraj\MatuvGatewayArray2.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.000000 0.043580
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toraj\Desktop\blender-tooraj\MatuvGatewayArray2.png
+
+newmtl Material.001_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.000000 0.043580
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.123398 0.130299 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toraj\Desktop\blender-tooraj\MatuvGatewayArray2.png
+
+newmtl Material.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.603360 0.640000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toraj\Desktop\blender-tooraj\MatuvGatewayArray2.png
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.176206 0.169131 0.171305
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toraj\Desktop\blender-tooraj\MatuvGatewayArray2.png

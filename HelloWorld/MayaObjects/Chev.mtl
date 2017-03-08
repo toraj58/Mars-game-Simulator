@@ -1,0 +1,78 @@
+# Blender MTL File: 'car_yellow.blend'
+# Material Count: 8
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Documents and Settings\\Franklin\\Desktop\\backlight.jpg
+
+newmtl Material.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.760000 0.415253 0.102504
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl a_Best_car__paint
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.632143 0.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl glass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.198767 0.198767 0.198767
+Ks 0.623077 0.623077 0.623077
+Ni 1.000000
+d 0.700000
+illum 2
+
+newmtl light
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\\Amalore\\New car\\indi1.png
+
+newmtl rim
+Ns 747.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.316901 0.316901 0.316901
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ke e:\\A_BLENDER\\Materials\\textures on 3d1\\ref\\ref2\\steel__DN.jpg
+map_Kd e:\\A_BLENDER\\Materials\\textures on 3d1\\ref\\ref2\\steel__DN.jpg
+
+newmtl tyre
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.218661 0.218661 0.218661
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2

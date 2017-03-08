@@ -1,0 +1,25 @@
+﻿Build started 01/15/2016 08:37:24 ب.ظ.
+     1>Project "F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\HelloWorld\HelloWorld.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MainGameLoop.cpp
+         MainGameLoop.cpp
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(229): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(283): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(431): warning C4244: 'argument' : conversion from 'double' to 'irr::u32', possible loss of data
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(433): warning C4244: 'argument' : conversion from 'float' to 'irr::u32', possible loss of data
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(465): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(473): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(597): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(671): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(715): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(728): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(743): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\helloworld\helloworld\maingameloop.cpp(819): warning C4244: 'argument' : conversion from 'double' to 'irr::u32', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\Debug\HelloWorld.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\Debug\HelloWorld.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\Debug\HelloWorld.lib" /MACHINE:X86 Debug\MainGameLoop.obj
+         HelloWorld.vcxproj -> F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\Debug\HelloWorld.exe
+     1>Done Building Project "F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\HelloWorld\HelloWorld.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29

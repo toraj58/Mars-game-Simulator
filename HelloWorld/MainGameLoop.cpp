@@ -1,7 +1,14 @@
-/** Example 001 HelloWorld
+/* 
+Mars Game Simulator 
+Developed BY: Touraj Ebrahimi
+Using Irrlicht, C++ and Blender + Gimp
+Refer to the comments for more info regarding Irrlicht and how this game is coded
+ */
 
-This Tutorial shows how to set up the IDE for using the Irrlicht Engine and how
-to write a simple HelloWorld program with it. The program will show how to use
+/** 
+
+This Game Simulator shows how to set up the IDE for using the Irrlicht Engine and how
+to write a simple Game with it. The program will show how to use
 the basics of the VideoDriver, the GUIEnvironment, and the SceneManager.
 Microsoft Visual Studio is used as an IDE, but you will also be able to
 understand everything if you are using a different one or even another
@@ -972,5 +979,5 @@ int main()
 }
 
 /*
-That's it. Compile and run.
+That's it. Compile and run my Game... Take Care Friends. Touraj Ebrahimi
 **/
